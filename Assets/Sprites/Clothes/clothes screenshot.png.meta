@@ -1,0 +1,2136 @@
+fileFormatVersion: 2
+guid: eb5cb415147099644ac56fb8f53a652c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clothes screenshot_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 615
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6105158e05774db9343708a9807bc
+      internalID: -72434630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 621
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5838df5a38bfb749af5fd269336c9da
+      internalID: 1200746866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 617
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eddd8bdc7844a43a20b41640d2c947
+      internalID: 149481155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 618
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe93f78624602547b97faf774f2adcb
+      internalID: -2070563185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 618
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd64276b9cbb947a1f3b4748ada43b
+      internalID: 898804314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 618
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b86bf0d13f07741967abdf29ec1b0a
+      internalID: -1321637089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 617
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4986f659b5924994965ab37e690e6
+      internalID: -1703977044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 617
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772260f74741974b8c4815a1b489551
+      internalID: 696143322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 618
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f6e59410debf44ae48acc9cbe7e7e
+      internalID: -1101434795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 617
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bfe141a25b304abe4385a218c1778
+      internalID: 366444851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 541
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7d131a4fc11049adb73393a47829c
+      internalID: 1230782981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 539
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b23a06eb5d7b48b99cf13fcf42af7
+      internalID: -1729239226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 542
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc332e94d4aadf8489c9a378a95cab48
+      internalID: -827179749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 540
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68239a2978b7240bfa686e393271d5
+      internalID: 214622444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 539
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cfd802bbae4cc4198033ef20b21b2e
+      internalID: 1925759607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 541
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b37fc0fb1e8ace4d885f417f3bc0d72
+      internalID: 23711708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 541
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c86c6d04779f04cb2e26a988721fff
+      internalID: 2029626962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 546
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be428e4f2659b34eab93ac9aef00cfb
+      internalID: 830839576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 548
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3902bc9dda65944a06c590c77c2c7e
+      internalID: 1886544533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 550
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d3f1237feb714a8b7326514fd06b6
+      internalID: -1047495804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 508
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8c757641e83b45b91bb7438056e34
+      internalID: -420147303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 510
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd4fbcadcc6f54a9c3487b6e5a8627
+      internalID: -799844260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 512
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae47e1b938a2f4ba6b14b54fb61729
+      internalID: 1041076466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 514
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f27b209fd5c3d4cb46d2a6602dd334
+      internalID: -1014243875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 509
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f21322eafe0664190a5e865008ef58
+      internalID: 1584159240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 508
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c8cd6fb4c7ba49b52fb29986f8c51
+      internalID: 2139944662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 491
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5192ff5a9d1090240975dc4c3e2a2b74
+      internalID: 712894523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 493
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a1286e9b57964bb11b99abe781997
+      internalID: 699664713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 491
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a84bb8b8899f343bbd26777301096d
+      internalID: 1990565558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 490
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0eb0f6cbb59fb4f87a53f28cd6a23e
+      internalID: -1726429725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_30
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 489
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0b9d705d08d342a49a61590ecc31c
+      internalID: 760944619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 489
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73feaf61ffc7dd54a95033981f04cc48
+      internalID: -1790845865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725584c1c1dc85d4292d39b1835fed99
+      internalID: -259187283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b274e99e818f4ea3316cbc8a177fb
+      internalID: -191779010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 388
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041f12a3ea6b06468c1648267198719
+      internalID: 811050150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 387
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e418b51fbc7134db77d37dd41ef5c7
+      internalID: 1875875275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 395
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc0dae0c3addf41bd8d6cdf788cd00
+      internalID: -2070325625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 393
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ac8d37e2f1454aa6bc6759c1381b3
+      internalID: 802655656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 391
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635dd2ba33cdaf4aba35fca9a7ac7b5
+      internalID: -1411349150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 393
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca14579e19bf8f49ab0bef528899afa
+      internalID: 958129574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_40
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 390
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8214cb775644643ac13a3b157349f9
+      internalID: 970483750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 393
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58ed174370ac6499b5791a2e5e5e36
+      internalID: -297042239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82643539d5273f746906e75c0baaedec
+      internalID: -2114451029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 302
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63557eb20a11d0242a3f29544d916e3f
+      internalID: 1097263616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 301
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed690adc65bb304fa60bfcc2e8ec4ff
+      internalID: -191164948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 299
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a45c124f054b4a86d06bc274d26d8
+      internalID: -1753933897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 303
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2fe30f36f9f10478969c472b453980
+      internalID: -1357439306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_47
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 303
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125728d3f9518746889775d4cf967a5
+      internalID: -1828863608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 302
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a85958026d3443b02c24d16730f84
+      internalID: 239830073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 304
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d372732de0cf664aa668d28640fe833
+      internalID: -133412696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 303
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0bc8c68ac51449b2052fd08067006
+      internalID: 650062436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 238
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299bba1dc098e8948a626677662d2f5e
+      internalID: -1164637272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 236
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f28d70de2b6fe54ab28b6742602c704
+      internalID: 12503051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 224
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e4f12e53970948b89a20c6da62157
+      internalID: 574664777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c1988dac40196429405c909c2e3f7c
+      internalID: 1812178807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 223
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4a7c842e394174badc02197691aa7c
+      internalID: -1648218773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 226
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c2b498a931a6439a5022079008c2c
+      internalID: 1166267733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 227
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c98f27b401aa24bb831087980eb1c0
+      internalID: -1843158066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 226
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e50ec7b7a62d742891e87a668ea536
+      internalID: -995237903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_59
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 227
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01deb4e55db89a468157e70792ad511
+      internalID: 1532136478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_60
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 225
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a82bbad9c89d4c803b6ecb45f2845
+      internalID: -160264096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdfbff4b8f6e746897dc9696d58eb3
+      internalID: -1922773739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9013302922e184c9876c3735e82b1f
+      internalID: 1379441790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeb5a56b27ec6545970cdcc078707ff
+      internalID: -113355603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 154
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa5f72795be5a4faae522f8bf0c3cc
+      internalID: -1771343158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 159
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509063c7ef3698f4ea549d9975db9365
+      internalID: 1035867310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 155
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d2e6fa6028fc2468a1555a65821ab3
+      internalID: 1855106800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_67
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 153
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d555867f8e7a541908abd876bb514d
+      internalID: 458135650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 157
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59700f3df7b73d046b2b0a88567fb1a8
+      internalID: 1264729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_69
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 156
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ed9ae7dfcc354cbd42d313e1793a9
+      internalID: 476742281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 158
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a193fb2cd4d8c459018f168dd344bf
+      internalID: -815312750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 78
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57f791f9d397a43ac5bf11d2df8823
+      internalID: -1337924423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb7eb9c56a63d4fbb6e0a594520087
+      internalID: 2143120839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 77
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2216262b559c245b1faf48fc27ea91
+      internalID: -637248011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 78
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6abe48abf473444e92b9cdfd56524dc
+      internalID: 15107958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 78
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b4a1c92727f8c4ea3853999f3f14e8
+      internalID: -476834684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 78
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d29e0323009f54aa95e7f96d45e854
+      internalID: -1496750964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_77
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 79
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47770cf18513c364388c2b1181240187
+      internalID: -248729765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 81
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068988157bb6c2041ad7e9d04eb193c9
+      internalID: 1379312934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_79
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 80
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec0ad885bea5e4d985b0698667ea6e
+      internalID: 1392515885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_80
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 83
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e784019381c041aefacff78e53765
+      internalID: 1423861136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_81
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db852285f982dcd4aa609d47177d3b4f
+      internalID: -354566555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_82
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633a11e8ed07384e82590206063a34e
+      internalID: 1580760454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de14ae0ed186ce4d82715fcd29a78db
+      internalID: 1374975998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 9
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a8c8f4ef00a546968d3f0338ac471
+      internalID: 241029613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 7
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08909b82e22c6a947bd4c4a8ae3e4957
+      internalID: -2142377337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 9
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb7687d3b0432458b5cc91f132fde7
+      internalID: 1262936241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_87
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 10
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24705fddebde35b49923693adfe92215
+      internalID: -212899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_88
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 7
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbfb2f678ee3b46b1393b2782a772a
+      internalID: -364371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_89
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 10
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a38b0a8de52824bac41dd300591373
+      internalID: -1636807006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothes screenshot_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 8
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa65c8518234c747a6474dd1293e9a3
+      internalID: 860846935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      clothes screenshot_35: 1875875275
+      clothes screenshot_77: -248729765
+      clothes screenshot_30: 760944619
+      clothes screenshot_82: 1580760454
+      clothes screenshot_9: 366444851
+      clothes screenshot_19: -1047495804
+      clothes screenshot_31: -1790845865
+      clothes screenshot_21: -799844260
+      clothes screenshot_0: -72434630
+      clothes screenshot_39: 958129574
+      clothes screenshot_22: 1041076466
+      clothes screenshot_56: 1166267733
+      clothes screenshot_46: -1357439306
+      clothes screenshot_71: -1337924423
+      clothes screenshot_18: 1886544533
+      clothes screenshot_20: -420147303
+      clothes screenshot_83: 1374975998
+      clothes screenshot_75: -476834684
+      clothes screenshot_40: 970483750
+      clothes screenshot_29: -1726429725
+      clothes screenshot_66: 1855106800
+      clothes screenshot_41: -297042239
+      clothes screenshot_28: 1990565558
+      clothes screenshot_53: 574664777
+      clothes screenshot_65: 1035867310
+      clothes screenshot_87: -212899372
+      clothes screenshot_86: 1262936241
+      clothes screenshot_57: -1843158066
+      clothes screenshot_32: -259187283
+      clothes screenshot_27: 699664713
+      clothes screenshot_89: -1636807006
+      clothes screenshot_45: -1753933897
+      clothes screenshot_17: 830839576
+      clothes screenshot_34: 811050150
+      clothes screenshot_50: 650062436
+      clothes screenshot_10: 1230782981
+      clothes screenshot_78: 1379312934
+      clothes screenshot_47: -1828863608
+      clothes screenshot_49: -133412696
+      clothes screenshot_70: -815312750
+      clothes screenshot_51: -1164637272
+      clothes screenshot_55: -1648218773
+      clothes screenshot_80: 1423861136
+      clothes screenshot_61: -1922773739
+      clothes screenshot_12: -827179749
+      clothes screenshot_90: 860846935
+      clothes screenshot_68: 1264729541
+      clothes screenshot_7: 696143322
+      clothes screenshot_64: -1771343158
+      clothes screenshot_52: 12503051
+      clothes screenshot_4: 898804314
+      clothes screenshot_5: -1321637089
+      clothes screenshot_6: -1703977044
+      clothes screenshot_79: 1392515885
+      clothes screenshot_15: 23711708
+      clothes screenshot_25: 2139944662
+      clothes screenshot_88: -364371152
+      clothes screenshot_13: 214622444
+      clothes screenshot_16: 2029626962
+      clothes screenshot_14: 1925759607
+      clothes screenshot_24: 1584159240
+      clothes screenshot_67: 458135650
+      clothes screenshot_74: 15107958
+      clothes screenshot_2: 149481155
+      clothes screenshot_73: -637248011
+      clothes screenshot_33: -191779010
+      clothes screenshot_48: 239830073
+      clothes screenshot_11: -1729239226
+      clothes screenshot_69: 476742281
+      clothes screenshot_3: -2070563185
+      clothes screenshot_60: -160264096
+      clothes screenshot_76: -1496750964
+      clothes screenshot_72: 2143120839
+      clothes screenshot_8: -1101434795
+      clothes screenshot_58: -995237903
+      clothes screenshot_38: -1411349150
+      clothes screenshot_81: -354566555
+      clothes screenshot_84: 241029613
+      clothes screenshot_54: 1812178807
+      clothes screenshot_44: -191164948
+      clothes screenshot_62: 1379441790
+      clothes screenshot_85: -2142377337
+      clothes screenshot_59: 1532136478
+      clothes screenshot_37: 802655656
+      clothes screenshot_1: 1200746866
+      clothes screenshot_42: -2114451029
+      clothes screenshot_23: -1014243875
+      clothes screenshot_43: 1097263616
+      clothes screenshot_26: 712894523
+      clothes screenshot_63: -113355603
+      clothes screenshot_36: -2070325625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
